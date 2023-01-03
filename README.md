@@ -2,5 +2,6 @@
 Image recoloring project for NNDL course (ICT for Internet and Multimedia major) @UNIPD.
 The project is based on "Image-to-Image Translation with Conditional Adversarial Networks" paper by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros.
 
-U-Net from scratch: https://medium.com/mlearning-ai/semantic-segmentation-with-pytorch-u-net-from-scratch-502d6565910a
-Imagenet docs: https://github.com/pytorch/examples/tree/main/imagenet
+<p>
+    Imagenet docs: https://github.com/pytorch/examples/tree/main/imagenet
+</p>
