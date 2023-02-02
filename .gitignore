@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 /dataset/imagenet/
 /runs/
+/dataset/
+discriminator_checkpoint.pth.tar
+generator_checkpoint.pth.tar
