@@ -5,3 +5,4 @@
 /dataset/
 disc_checkpoint.pth.tar
 gen_checkpoint.pth.tar
+/saved_samples/
